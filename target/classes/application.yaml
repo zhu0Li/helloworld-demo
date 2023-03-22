@@ -1,5 +1,0 @@
-logging:
-  level:
-    io.lettuce.core: debug
-server:
-  port: 8080
